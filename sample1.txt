@@ -3,3 +3,4 @@ dir(ls)
 ?dir
 ls()
 3+4
+print(5)
